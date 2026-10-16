@@ -134,7 +134,7 @@ changelog entry is created for that run.
 ## Support
 
 Android App Hub is free and open source, built in spare time. If it saved you time, you can
-[support the work with a small crypto donation](https://github.com/kreza6173-pixel/kreza6173-pixel/blob/main/DONATE.md)
+[support the work with a small crypto donation](https://github.com/privshell/privshell/blob/main/DONATE.md)
 (USDT on TRC20, or USDC / SOL on Solana). Starring the repo or opening a clear issue helps
 just as much.
 
